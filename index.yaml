@@ -3,12 +3,12 @@ entries:
   logrotate:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-03-23T14:55:11.053321+08:00"
+    created: "2024-03-23T15:01:33.690379+08:00"
     description: A Helm chart for deploying a logrotate pod in Kubernetes
-    digest: 2c7e5c6c1d700f52f58fcb4801f43d754ceecaa6268657aacfe7203b6f587265
+    digest: 1f6f8ce4a00f4283df49614abaca13c891da83f072c4348019bbd50df3c974aa
     name: logrotate
     type: application
     urls:
     - logrotate-0.1.0.tgz
     version: 0.1.0
-generated: "2024-03-23T14:55:11.052696+08:00"
+generated: "2024-03-23T15:01:33.689659+08:00"
